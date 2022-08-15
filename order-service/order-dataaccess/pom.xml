@@ -16,6 +16,10 @@
     </properties>
 
     <dependencies>
+        <dependency>
+            <groupId>com.aac.learning.ms.food.ordering.system</groupId>
+            <artifactId>order-application-service</artifactId>
+        </dependency>
     </dependencies>
 
 </project>
