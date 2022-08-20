@@ -47,6 +47,15 @@ domain event listener can have a separate domain service to handle business logi
  all directly related design elements. The design and implementation of business logic constitute 
  the domain layer. In a MODEL-DRIVEN DESIGN, the software constructs of the domain layer mirror the model concepts."
 
+#Refrences
+https://beanvalidation.org/2.0/spec/#constraintdeclarationvalidationprocess-methodlevelconstraints-inheritance
+https://microservices.io/patterns/microservices.html
+https://dzone.com/articles/design-patterns-for-microservices
+https://docs.microsoft.com/en-us/azure/architecture/microservices/design/patterns
+https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
+https://dzone.com/articles/hexagonal-architecture-what-is-it-and-how-does-it
+https://reflectoring.io/spring-hexagonal/
+
 
 
 
